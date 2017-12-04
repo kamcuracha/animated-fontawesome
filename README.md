@@ -4,4 +4,4 @@ Inspired by [Traversy Media on Youtube](https://www.youtube.com/watch?v=XP-MRCUP
 
 Animate Fontawesome icons using JS.
 
-[Kam Curacha](https://curacha.me)
+[Kam Curacha](https://kamcuracha.com)
